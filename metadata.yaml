@@ -1,0 +1,28 @@
+_repo: La-gardienne-de-l-idole-noire_74995
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Maindron, Maurice
+    gutenberg_agent_id: '57762'
+    url: http://www.gutenberg.org/2009/agents/57762
+description: ''
+gutenberg_issued: '2024-12-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74995'
+language: fr
+pgterms:marc904: https://archive.org/details/lagardiennedelid00main
+pgterms:marc905: 20231224001517maindron
+pgterms:marc906: '1910'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/Canadian
+  Libraries)
+publication_note: '  $aParis :$bLemerre, $c1910.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: La gardienne de l'idole noire
+url: http://www.gutenberg.org/ebooks/74995
